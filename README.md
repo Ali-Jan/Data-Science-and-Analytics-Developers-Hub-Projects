@@ -5,17 +5,17 @@
 
 **Here I have worked on these 5 Projects:**
 
-1: Iris Dataset (Exploring and Visualizing)
+1: Iris Dataset (Exploring and Visualizing)   
    (sns.load_dataset('iris'))
 
-2: Credit Risk Prediction
+2: Credit Risk Prediction   
    (https://www.kaggle.com/datasets/saurabhbagchi/dish-network-hackathon/data)
 
-3: Customer Churn Prediction (Bank Customers)
+3: Customer Churn Prediction (Bank Customers)   
    (https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
 
-4: Predicting Insurance Claim Amounts
+4: Predicting Insurance Claim Amounts   
    (https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
-5: Term Deposit Acceptance Prediction
+5: Term Deposit Acceptance Prediction   
   (https://archive.ics.uci.edu/dataset/222/bank+marketing)
